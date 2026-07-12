@@ -1,0 +1,4 @@
+print("Hello, World!")
+print("This is a sample Python script.")
+print("My name is Raneya")
+print("I am learning Python.")
